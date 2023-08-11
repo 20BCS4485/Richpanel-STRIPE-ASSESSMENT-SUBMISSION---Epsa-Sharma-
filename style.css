@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(77, 140, 179);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right;
+    background-size: 2900px;
+    
+  }
+  label{
+    display: block;
+  }
+
+  #interface{
+    /*display : none; */
+  }
+ 
